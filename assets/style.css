@@ -1,0 +1,13 @@
+
+
+.contacts{
+    display: inline-flex;
+}
+
+.float-right{
+    float: right;
+}
+
+.float-left{
+    float: left;
+}
