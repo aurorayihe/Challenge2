@@ -90,13 +90,11 @@
 .surf-report h3{
     margin-top: 180px;
     color: #1a2a3a;
-
 }
 
 .small-text{
     font-size: 10px;
     color: #1a2a3a;
-
 }
 
 .small-image{
@@ -108,27 +106,10 @@
     border: #99CCCC solid 2px;
     margin-bottom: 10px;
 }
-/*
-.content h4{
+
+.small-image h3{
     color: #1a2a3a;
-    position: relative;
-    top:65%;
-    background-color: #99CCCC;
-    width: 25%;
 }
-
-.content h4 .small-text{
-    color:#1a2a3a;
-    background-color: #99CCCC;
-}
-
-.content .small-image{
-    display: inline-flex;
-    padding: 2%;
-    width: 48%;
-}
-
-*/
 
 /*set up sidebar position and style*/
 .sidebar{
@@ -154,8 +135,27 @@
 
 #work{
     position: relative;
-    padding-top:;
 }
+
 footer{
+    margin-left: 200px;
+    color: #1a2a3a;
+    font-weight: bold;
+}
+footer p{
     display: inline-block;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: underline #1a2a3a 2px;
+}
+
+footer a{
+    display: inline-block;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: underline #1a2a3a 2px;
 }
